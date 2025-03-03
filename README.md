@@ -19,6 +19,7 @@ Compile and run the programs using the **MIPS simulator QtSpim**.
 - GCD/LCM Calculation
 - Hexadecimal to Decimal Conversion
 - Palindrome Checker
+- Linear Search
 - Multiplication
 - Parity Check
 
